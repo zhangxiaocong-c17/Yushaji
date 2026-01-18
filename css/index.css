@@ -3,7 +3,9 @@
   src: url('/fonts/ZQKNBCGPST.woff') format('woff');
 
 }
-
+body{
+    background-color:rgb(44,63,106)
+}
 h1{
     color:antiquewhite;
     font-family: 'NBGC' ,sans-serif ;
@@ -12,3 +14,4 @@ h1{
     position: relative;
     text-align: center;
 }
+
