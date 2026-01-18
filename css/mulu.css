@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'NBGC';
+  src: url('/fonts/ZQKNBCGPST.woff') format('woff');
+
+}
+@font-face {
+  font-family: 'HFS';
+  src: url('/fonts/ChillHuoFangSong_ConRegular.otf') format('otf');
+
+}
+
+
+h1{
+    font-family: NBGC;
+    font-size: xx-large;
+}
+ul{
+    color:black;
+    font-size: large;
+}
+
+body{
+    margin: 10px 40px ;
+    background-color: antiquewhite ;
+}
